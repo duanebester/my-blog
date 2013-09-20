@@ -1,7 +1,7 @@
-## Welcome
+Software [Ninja] in training
+------
 
-Welcome to your new Telegram site.  Check out the [Getting Started](/getting_started) page
-for information on how to set up your site.
+Electrical Engineer by degree, Software Developer by day, Scala and Clojure enthusiast by night. I'll always consider myself an amateur with an eye for clean design.
 
 <span data-lift="if?extra_true=has_blog">Welcome to my blog.  Here are my most recent blog posts:</span>
 
