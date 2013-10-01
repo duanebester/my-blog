@@ -12,8 +12,6 @@ duanebester.com
 
 github.com/duanebester
 
-facebook.com/duane.bester
-
 
 [title: About]: /
 [order: 20]: /
