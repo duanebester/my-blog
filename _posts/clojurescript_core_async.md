@@ -1,3 +1,5 @@
+title: ClojureScript Core.Async
+
 ## ClojureScript Core.Async
 ### *Featuring WebSockets*
 
